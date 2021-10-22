@@ -1,0 +1,32 @@
+#header{
+    background-color: yellow;
+    height: 200px;
+    width:100%;
+
+}
+#menu{
+    background-color: purple;
+    height: 700px;
+    flex-grow: 1;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.post{
+    margin-top: 10px;
+    background-color: aqua;
+    height: 300px;
+    width: 500px;
+    flex-grow: 2;
+}
+.wrapper{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+}
+.wrap{
+    display: flex;
+    flex-direction: column;
+
+
+}
