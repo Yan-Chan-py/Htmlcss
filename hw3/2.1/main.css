@@ -22,11 +22,16 @@
     display: flex;
     width: 100%;
     justify-content: space-between;
+    margin-bottom: 10px;
 
 }
 .wrap{
     display: flex;
     flex-direction: column;
-
+}
+.footer{
+    background-color: yellow;
+    height: 200px;
+    width:100%;
 
 }
